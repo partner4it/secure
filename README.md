@@ -1,2 +1,2 @@
-# secure
-GO Library for encrypting and decrypting strings
+# Secure
+A simple implemenation for encrypting and decrypting a string
